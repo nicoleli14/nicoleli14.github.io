@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:"static/chunks/500-fc3b64d9ff4a32a7.js"
+3:"static/chunks/app/layout-8875f00fa0502486.js"
+4:I[2589,["500","$2","177","$3"],"Header"]
+5:I[7121,[],""]
+6:I[4581,[],""]
+7:"static/chunks/437-0f1f00a941b2a3b0.js"
+8:"static/chunks/app/projects/%5Bslug%5D/page-6b439c815a2c29da.js"
+9:I[8500,["500","$2","437","$7","419","$8"],""]
+a:I[2589,["500","$2","177","$3"],"Footer"]
+13:I[8437,["500","$2","437","$7","419","$8"],"Image"]
+14:I[484,[],"OutletBoundary"]
+15:"$Sreact.suspense"
+18:"ViewportBoundary"
+19:I[484,[],"$18"]
+1a:"MetadataBoundary"
+1b:I[484,[],"$1a"]
+1c:I[6869,[],"IconMark"]
+:HL["/_next/static/css/add13835092aaf81.css","style"]
+c:X
+f:X
+f:C
+12:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"id":"main","className":"editorial-page project-page","children":[["$","$L9",null,{"href":"/projects/","className":"text-link breadcrumb","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","aria-hidden":"true","style":{"transform":"rotate(180deg)"},"children":["$","path",null,{"d":"M4 12h15m-6-6 6 6-6 6","stroke":"currentColor","strokeWidth":"1.4","strokeLinecap":"round","strokeLinejoin":"round"}]}]," Projects"]}],["$","header",null,{"className":"page-heading","children":[["$","h1",null,{"children":"Sounds About Right"}],["$","p",null,{"className":"project-category","children":"Multiplayer music game"}],["$","p",null,{"children":"Designed a full-stack multiplayer music game using Next.js, React, TypeScript, Supabase, Gemini AI, and the Apple Music API, allowing users to create custom prompts and vote on the best song choices."}],["$","p",null,{"className":"technology-summary","children":"Next.js, React, TypeScript, Supabase, Gemini AI, Apple Music API"}],["$","a",null,{"className":"primary-link","href":"https://soundsaboutright.games/","target":"_blank","rel":"noreferrer","children":["Play Sounds About Right"," ",["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","aria-hidden":"true","style":{},"children":["$","path",null,{"d":"M4 12h15m-6-6 6 6-6 6","stroke":"currentColor","strokeWidth":"1.4","strokeLinecap":"round","strokeLinejoin":"round"}]}]]}]]}],["$","div",null,{"className":"project-media","children":["$undefined",[["$","figure","/images/portfolio/sounds-about-right-1.png",{"children":[["$","a",null,{"href":"/images/portfolio/sounds-about-right-1.png","target":"_blank","rel":"noreferrer","aria-label":"View full size: Sounds About Right game interface","children":["$","$L13",null,{"src":"/images/portfolio/sounds-about-right-1.png","alt":"Sounds About Right game interface","width":1440,"height":907,"sizes":"(max-width: 760px) 86vw, 920px"}]}],["$","figcaption",null,{"children":"Sounds About Right game interface"}]]}]]]}]]}],null,["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":"$@17","v":null,"s":"$c"}}]]
+10:[["children",{"s":{"n":"slug","t":"d","k":"sounds-about-right","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@11","v":"$f","s":"$c"},"c":"$Q12"}]]
+d:[["children",{"s":"projects","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@e","v":"$f","s":"$c"},"c":"$Q10"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/add13835092aaf81.css","precedence":"next"}]],["$","html",null,{"lang":"en","data-scroll-behavior":"smooth","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","$L4",null,{}],["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[["$","main",null,{"id":"main","className":"editorial-page","children":["$","div",null,{"className":"page-heading","children":[["$","h1",null,{"children":"Page not found"}],["$","$L9",null,{"className":"primary-link","href":"/","children":"Home"}]]}]}],[]]}],["$","$La",null,{}]]}]}]]}],"p":"$@b","v":null,"s":"$c"},"c":"$Qd"},"h":{"r":["$","$1","h",{"children":[null,["$","$L19",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Sounds About Right | Nicole Li"}],["$","meta","1",{"name":"description","content":"Designed a full-stack multiplayer music game using Next.js, React, TypeScript, Supabase, Gemini AI, and the Apple Music API, allowing users to create custom prompts and vote on the best song choices."}],["$","meta","2",{"property":"og:title","content":"Nicole Li — Projects, experience, and photography"}],["$","meta","3",{"property":"og:description","content":"Projects, research, and photography by Nicole Li."}],["$","meta","4",{"property":"og:type","content":"website"}],["$","meta","5",{"name":"twitter:card","content":"summary"}],["$","meta","6",{"name":"twitter:title","content":"Nicole Li — Projects, experience, and photography"}],["$","meta","7",{"name":"twitter:description","content":"Projects, research, and photography by Nicole Li."}],["$","link","8",{"rel":"icon","href":"/icon.svg?979279274bcc0076","type":"image/svg+xml","sizes":"any"}],["$","$L1c","9",{}]]}]}],null]}],null]}],"p":"$@1d","v":null,"s":"$c"}},"a":"$@1e","u":"$@1f","b":"u94i9042zg6LNE_IHGreS"}
+16:null
+c:300
+1f:true
+c:C
+1e:0
+11:"$undefined"
+e:"$undefined"
+b:"$undefined"
+1d:"$undefined"
+17:"$undefined"

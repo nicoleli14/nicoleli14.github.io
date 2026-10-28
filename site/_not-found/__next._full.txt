@@ -1,0 +1,26 @@
+1:"$Sreact.fragment"
+2:"static/chunks/500-fc3b64d9ff4a32a7.js"
+3:"static/chunks/app/layout-8875f00fa0502486.js"
+4:I[2589,["500","$2","177","$3"],"Header"]
+5:I[7121,[],""]
+6:I[4581,[],""]
+7:"static/chunks/app/not-found-f2ee70dd0238d3d0.js"
+8:I[8500,["500","$2","345","$7"],""]
+9:I[2589,["500","$2","177","$3"],"Footer"]
+d:I[484,[],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[484,[],"$10"]
+13:"MetadataBoundary"
+14:I[484,[],"$13"]
+16:I[7123,[],"default",1]
+:HL["/_next/static/css/add13835092aaf81.css","style"]
+b:X
+c:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"id":"main","className":"editorial-page","children":["$","div",null,{"className":"page-heading","children":[["$","h1",null,{"children":"Page not found"}],["$","$L8",null,{"className":"primary-link","href":"/","children":"Home"}]]}]}],null,["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":false,"v":null}}]]
+a:[["children",{"s":"_not-found","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$b"},"c":"$Qc"}]]
+0:{"P":null,"c":["","_not-found",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/add13835092aaf81.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","data-scroll-behavior":"smooth","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","$L4",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"id":"main","className":"editorial-page","children":["$","div",null,{"className":"page-heading","children":[["$","h1",null,{"children":"Page not found"}],["$","$L8",null,{"className":"primary-link","href":"/","children":"Home"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L9",null,{}]]}]}]]}],"p":false,"v":null},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L11",null,{"children":"$L12"}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":"$L15"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$16",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"u94i9042zg6LNE_IHGreS"}
+b:C
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+17:I[6869,[],"IconMark"]
+f:null
+15:[["$","title","0",{"children":"Nicole Li — Projects, experience, and photography"}],["$","meta","1",{"name":"description","content":"Nicole Li is a Duke University student working in AI research, robotics, software, and photography."}],["$","meta","2",{"property":"og:title","content":"Nicole Li — Projects, experience, and photography"}],["$","meta","3",{"property":"og:description","content":"Projects, research, and photography by Nicole Li."}],["$","meta","4",{"property":"og:type","content":"website"}],["$","meta","5",{"name":"twitter:card","content":"summary"}],["$","meta","6",{"name":"twitter:title","content":"Nicole Li — Projects, experience, and photography"}],["$","meta","7",{"name":"twitter:description","content":"Projects, research, and photography by Nicole Li."}],["$","link","8",{"rel":"icon","href":"/icon.svg?979279274bcc0076","type":"image/svg+xml","sizes":"any"}],["$","$L17","9",{}]]

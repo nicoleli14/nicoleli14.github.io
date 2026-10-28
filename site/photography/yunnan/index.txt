@@ -1,0 +1,30 @@
+1:"$Sreact.fragment"
+2:"static/chunks/500-fc3b64d9ff4a32a7.js"
+3:"static/chunks/app/layout-8875f00fa0502486.js"
+4:I[2589,["500","$2","177","$3"],"Header"]
+5:I[7121,[],""]
+6:I[4581,[],""]
+7:"static/chunks/437-0f1f00a941b2a3b0.js"
+8:"static/chunks/app/photography/%5Bslug%5D/page-f008919fda7921ac.js"
+9:I[8500,["500","$2","437","$7","14","$8"],""]
+a:I[2589,["500","$2","177","$3"],"Footer"]
+10:I[484,[],"OutletBoundary"]
+11:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[484,[],"$13"]
+16:"MetadataBoundary"
+17:I[484,[],"$16"]
+19:I[7123,[],"default",1]
+:HL["/_next/static/css/add13835092aaf81.css","style"]
+c:X
+e:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$Lf",null,["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":false,"v":null}}]]
+d:[["children",{"s":{"n":"slug","t":"d","k":"yunnan","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$c"},"c":"$Qe"}]]
+b:[["children",{"s":"photography","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$c"},"c":"$Qd"}]]
+0:{"P":null,"c":["","photography","yunnan",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/add13835092aaf81.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","data-scroll-behavior":"smooth","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","$L4",null,{}],["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"id":"main","className":"editorial-page","children":["$","div",null,{"className":"page-heading","children":[["$","h1",null,{"children":"Page not found"}],["$","$L9",null,{"className":"primary-link","href":"/","children":"Home"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$La",null,{}]]}]}]]}],"p":false,"v":null},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":"$L18"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$19",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"u94i9042zg6LNE_IHGreS"}
+1a:I[6515,["500","$2","437","$7","14","$8"],"PhotoGallery"]
+c:C
+f:["$","main",null,{"id":"main","className":"editorial-page photography-page","children":[["$","$L9",null,{"href":"/photography/","className":"text-link breadcrumb","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","aria-hidden":"true","style":{"transform":"rotate(180deg)"},"children":["$","path",null,{"d":"M4 12h15m-6-6 6 6-6 6","stroke":"currentColor","strokeWidth":"1.4","strokeLinecap":"round","strokeLinejoin":"round"}]}]," All photography"]}],["$","header",null,{"className":"page-heading","children":[["$","p",null,{"className":"small-intro","children":"云南 · China"}],["$","h1",null,{"children":"Yunnan"}],["$","p",null,{"children":["July 2025"," · ",6," photographs"]}]]}],["$","$L1a",null,{"photos":[{"src":"/images/portfolio/yunnan-1.jpg","alt":"Dali Old Town, July 2, 2025","width":1440,"height":1800},{"src":"/images/portfolio/yunnan-2.jpg","alt":"Dali S Bay, July 2, 2025","width":1440,"height":1800},{"src":"/images/portfolio/yunnan-3.jpg","alt":"Dali Old Town, July 2, 2025","width":1440,"height":1800},{"src":"/images/portfolio/yunnan-4.jpg","alt":"Dali Old Town, July 2, 2025","width":1440,"height":1800},{"src":"/images/portfolio/yunnan-5.jpg","alt":"Dali Old Town, July 2, 2025","width":1440,"height":1800},{"src":"/images/portfolio/yunnan-6.jpg","alt":"Erhai Lake, July 3, 2025","width":1440,"height":2160}],"albumTitle":"Yunnan"}]]}]
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1b:I[6869,[],"IconMark"]
+12:null
+18:[["$","title","0",{"children":"Yunnan — Photography | Nicole Li"}],["$","meta","1",{"name":"description","content":"Nicole Li is a Duke University student working in AI research, robotics, software, and photography."}],["$","meta","2",{"property":"og:title","content":"Nicole Li — Projects, experience, and photography"}],["$","meta","3",{"property":"og:description","content":"Projects, research, and photography by Nicole Li."}],["$","meta","4",{"property":"og:type","content":"website"}],["$","meta","5",{"name":"twitter:card","content":"summary"}],["$","meta","6",{"name":"twitter:title","content":"Nicole Li — Projects, experience, and photography"}],["$","meta","7",{"name":"twitter:description","content":"Projects, research, and photography by Nicole Li."}],["$","link","8",{"rel":"icon","href":"/icon.svg?979279274bcc0076","type":"image/svg+xml","sizes":"any"}],["$","$L1b","9",{}]]
